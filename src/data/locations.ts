@@ -1,0 +1,73 @@
+export interface DistrictData {
+  district: string;
+  cities: string[];
+}
+
+export const TAMIL_NADU_DISTRICTS: DistrictData[] = [
+  { district: 'Madurai', cities: ['Madurai', 'Melur', 'Thirumangalam', 'Usilampatti', 'Vadipatti', 'Sholavandan'] },
+  { district: 'Chennai', cities: ['Chennai', 'Tambaram', 'Avadi', 'Ambattur', 'Guindy', 'Mylapore', 'Egmore'] },
+  { district: 'Coimbatore', cities: ['Coimbatore', 'Pollachi', 'Mettupalayam', 'Sulur', 'Valparai', 'Annur'] },
+  { district: 'Tiruchirappalli', cities: ['Tiruchirappalli', 'Srirangam', 'Manapparai', 'Thuraiyur', 'Lalgudi'] },
+  { district: 'Salem', cities: ['Salem', 'Attur', 'Mettur', 'Omalur', 'Edappadi', 'Sankagiri'] },
+  { district: 'Tirunelveli', cities: ['Tirunelveli', 'Palayamkottai', 'Ambasamudram', 'Nanguneri', 'Cheranmahadevi'] },
+  { district: 'Virudhunagar', cities: ['Virudhunagar', 'Sivakasi', 'Rajapalayam', 'Aruppukkottai', 'Srivilliputtur', 'Sattur'] },
+  { district: 'Thoothukudi', cities: ['Thoothukudi', 'Kovilpatti', 'Tiruchendur', 'Srivaikuntam', 'Kayalpattinam'] },
+  { district: 'Dindigul', cities: ['Dindigul', 'Palani', 'Kodaikanal', 'Oddanchatram', 'Natham', 'Vedasandur'] },
+  { district: 'Sivaganga', cities: ['Sivaganga', 'Karaikudi', 'Devakottai', 'Manamadurai', 'Tiruppattur'] },
+  { district: 'Theni', cities: ['Theni', 'Periyakulam', 'Bodinayakanur', 'Cumbum', 'Uthamapalayam', 'Chinnamanur'] },
+  { district: 'Thanjavur', cities: ['Thanjavur', 'Kumbakonam', 'Pattukkottai', 'Orathanadu', 'Thiruvaiyaru'] },
+  { district: 'Kanchipuram', cities: ['Kanchipuram', 'Sriperumbudur', 'Walajabad', 'Uthiramerur'] },
+  { district: 'Vellore', cities: ['Vellore', 'Katpadi', 'Gudiyattam', 'Anaicut', 'Pernambut'] },
+  { district: 'Tiruppur', cities: ['Tiruppur', 'Dharapuram', 'Kangeyam', 'Avinashi', 'Udumalaipettai'] },
+  { district: 'Erode', cities: ['Erode', 'Bhavani', 'Gobichettipalayam', 'Perundurai', 'Sathyamangalam'] },
+  { district: 'Cuddalore', cities: ['Cuddalore', 'Chidambaram', 'Panruti', 'Neyveli', 'Vridhachalam'] },
+  { district: 'Nagapattinam', cities: ['Nagapattinam', 'Vedaranyam', 'Kilvelur', 'Thirukkuvalai'] },
+  { district: 'Krishnagiri', cities: ['Krishnagiri', 'Hosur', 'Pochampalli', 'Denkanikottai', 'Uthangarai'] },
+  { district: 'Dharmapuri', cities: ['Dharmapuri', 'Harur', 'Palacode', 'Pennagaram', 'Pappireddipatti'] },
+  { district: 'Namakkal', cities: ['Namakkal', 'Rasipuram', 'Tiruchengode', 'Paramathi Velur', 'Kolli Hills'] },
+  { district: 'Karur', cities: ['Karur', 'Kulithalai', 'Aravakurichi', 'Krishnarayapuram'] },
+  { district: 'Pudukkottai', cities: ['Pudukkottai', 'Aranthangi', 'Illuppur', 'Alangudi', 'Gandarvakottai'] },
+  { district: 'Ramanathapuram', cities: ['Ramanathapuram', 'Rameswaram', 'Paramakudi', 'Mudukulathur', 'Kilakarai'] },
+  { district: 'Kanyakumari', cities: ['Nagercoil', 'Kanyakumari', 'Padmanabhapuram', 'Colachel', 'Thuckalay'] },
+  { district: 'The Nilgiris', cities: ['Udhagamandalam (Ooty)', 'Coonoor', 'Kotagiri', 'Gudalur'] },
+  { district: 'Tiruvallur', cities: ['Tiruvallur', 'Ponneri', 'Gummidipoondi', 'Tiruttani', 'Poonamallee'] },
+  { district: 'Chengalpattu', cities: ['Chengalpattu', 'Tambaram South', 'Pallavaram', 'Madurantakam'] },
+  { district: 'Ranipet', cities: ['Ranipet', 'Arcot', 'Walajah', 'Arakkonam', 'Nemili'] },
+  { district: 'Tirupathur', cities: ['Tirupathur', 'Vaniyambadi', 'Ambur', 'Natrampalli'] },
+  { district: 'Tiruvannamalai', cities: ['Tiruvannamalai', 'Arani', 'Cheyyar', 'Polur', 'Chengam'] },
+  { district: 'Villupuram', cities: ['Villupuram', 'Tindivanam', 'Gingee', 'Vanur', 'Vikravandi'] },
+  { district: 'Kallakurichi', cities: ['Kallakurichi', 'Sankarapuram', 'Chinnasalem', 'Ulundurpet', 'Tirukoilur'] },
+  { district: 'Perambalur', cities: ['Perambalur', 'Kunnam', 'Alathur', 'Veppanthattai'] },
+  { district: 'Ariyalur', cities: ['Ariyalur', 'Sendurai', 'Udayarpalayam', 'Andimadam'] },
+  { district: 'Tiruvarur', cities: ['Tiruvarur', 'Mannargudi', 'Thiruthuraipoondi', 'Nannilam', 'Kodavasal'] },
+  { district: 'Mayiladuthurai', cities: ['Mayiladuthurai', 'Sirkazhi', 'Tharangambadi', 'Kuthalam'] },
+  { district: 'Tenkasi', cities: ['Tenkasi', 'Sankarankovil', 'Kadayanallur', 'Alangulam', 'Shenkottai'] },
+];
+
+export const INDIAN_STATES = [
+  'Tamil Nadu',
+  'Kerala',
+  'Karnataka',
+  'Andhra Pradesh',
+  'Telangana',
+  'Maharashtra',
+  'Delhi (NCT)',
+  'Uttar Pradesh',
+  'Rajasthan',
+  'West Bengal',
+  'Gujarat',
+];
+
+export const PRACTICE_AREAS = [
+  'Property & Real Estate',
+  'Civil & Partition',
+  'Family & Matrimonial',
+  'Consumer Protection',
+  'Commercial & Contracts',
+  'Negotiable Instruments (Sec 138)',
+  'Criminal & Bail',
+  'Cyber Crime & IT Act',
+  'Labour & Industrial',
+  'Constitutional & Writ',
+  'Banking & Debt Recovery',
+];

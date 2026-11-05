@@ -1,0 +1,221 @@
+[
+  {
+    "_id": "chk_01",
+    "ownerId": "usr_citizen_01",
+    "caseId": "case_01",
+    "documentId": "doc_01",
+    "title": "sample_legal_notice.txt",
+    "pageNumber": 1,
+    "chunkIndex": 0,
+    "text": "LEGAL NOTICE UNDER SECTION 106 OF THE TRANSFER OF PROPERTY ACT, 1882. Date: 15th January 2026, Place: Madurai. TO: M/s Saravanan Trading Corporation, Represented by Mr. S. Saravanan, Shop No. 14, Commercial Complex, West Masi Street, Madurai - 625001. FROM: Mr. S. Arumugam Chettiar, residing at No. 42, Vakkil New Street, Simmakkal, Madurai. Through Counsel: Adv. K. Ramanathan, Madurai Bench of Madras High Court.",
+    "keywords": [
+      "legal notice",
+      "section 106",
+      "transfer of property",
+      "madurai",
+      "arumugam",
+      "saravanan"
+    ],
+    "createdAt": "2026-10-27T13:13:56.982Z"
+  },
+  {
+    "_id": "chk_02",
+    "ownerId": "usr_citizen_01",
+    "caseId": "case_01",
+    "documentId": "doc_01",
+    "title": "sample_legal_notice.txt",
+    "pageNumber": 1,
+    "chunkIndex": 1,
+    "text": "Client is the absolute owner of Shop No. 14, Commercial Complex, West Masi Street, Madurai. Registered lease agreement dated 10th February 2021 was for 3 years at monthly rent of Rs. 28,000/-. Lease expired on 9th February 2024. Tenant continued month to month. Default in rent payment from August 2025 to December 2025, accumulating rental arrears of Rs. 1,40,000/-.",
+    "keywords": [
+      "lease",
+      "rent",
+      "arrears",
+      "28000",
+      "140000",
+      "august 2025",
+      "december 2025"
+    ],
+    "createdAt": "2026-10-27T13:13:56.982Z"
+  },
+  {
+    "_id": "chk_03",
+    "ownerId": "usr_citizen_01",
+    "caseId": "case_01",
+    "documentId": "doc_01",
+    "title": "sample_legal_notice.txt",
+    "pageNumber": 1,
+    "chunkIndex": 2,
+    "text": "TAKE NOTICE that your monthly tenancy stands TERMINATED upon expiry of 15 clear days from receipt under Section 106 Transfer of Property Act. You are called upon to: (a) Hand over peaceful vacant possession on or before 5th February 2026; (b) Pay outstanding arrears of Rs. 1,40,000/- with 12% interest. Failing compliance, eviction proceedings before Rent Tribunal / Civil Court Madurai will be initiated.",
+    "keywords": [
+      "termination",
+      "deadline",
+      "5th february 2026",
+      "rent tribunal",
+      "civil court madurai",
+      "15 days"
+    ],
+    "createdAt": "2026-10-27T13:13:56.982Z"
+  },
+  {
+    "_id": "chk_1793805217713_0",
+    "ownerId": "usr_citizen_01",
+    "caseId": "case_01",
+    "documentId": "doc_1793805217710",
+    "title": "sample_legal_notice.txt",
+    "pageNumber": 1,
+    "chunkIndex": 0,
+    "text": "LEGAL NOTICE UNDER SECTION 106 OF THE TRANSFER OF PROPERTY ACT, 1882 REGISTERED POST WITH ACKNOWLEDGEMENT DUE Date: 15th January 2026 Place: Madurai, Tamil Nadu TO: M/s Saravanan Trading Corporation Represented by its Managing Partner, Mr. S. Saravanan Shop No. 14, Commercial Complex, West Masi Street, Madurai - 625001, Tamil Nadu. FROM: Mr. S. Arumugam Chettiar Son of Late Shanmugam Chettiar Residing at No. 42, Vakkil New Street, Simmakkal, Madurai - 625001, Tamil Nadu. Through Counsel: Adv. K.",
+    "keywords": [
+      "legal",
+      "notice",
+      "under",
+      "section",
+      "106",
+      "of",
+      "the",
+      "transfer",
+      "of",
+      "property"
+    ],
+    "createdAt": "2026-11-04T15:13:37.713Z"
+  },
+  {
+    "_id": "chk_1793805217713_1",
+    "ownerId": "usr_citizen_01",
+    "caseId": "case_01",
+    "documentId": "doc_1793805217710",
+    "title": "sample_legal_notice.txt",
+    "pageNumber": 1,
+    "chunkIndex": 1,
+    "text": "ding at No. 42, Vakkil New Street, Simmakkal, Madurai - 625001, Tamil Nadu. Through Counsel: Adv. K. Ramanathan, B.A., B.L. High Court of Judicature at Madras, Madurai Bench. SUBJECT: Notice of termination of monthly tenancy and demand for vacant possession of commercial shop premises. Sir, Under instructions from my client Mr. S. Arumugam Chettiar, I do hereby serve upon you this Legal Notice as follows: 1. My client is the absolute owner and landlord of the commercial shop premises situated at",
+    "keywords": [
+      "ding",
+      "at",
+      "no.",
+      "42,",
+      "vakkil",
+      "new",
+      "street,",
+      "simmakkal,",
+      "madurai",
+      "-"
+    ],
+    "createdAt": "2026-11-04T15:13:37.713Z"
+  },
+  {
+    "_id": "chk_1793805217713_2",
+    "ownerId": "usr_citizen_01",
+    "caseId": "case_01",
+    "documentId": "doc_1793805217710",
+    "title": "sample_legal_notice.txt",
+    "pageNumber": 1,
+    "chunkIndex": 2,
+    "text": "follows: 1. My client is the absolute owner and landlord of the commercial shop premises situated at Shop No. 14, Ground Floor, Commercial Complex, West Masi Street, Madurai - 625001 (hereinafter referred to as the \"Schedule Premises\"). 2. You entered into a registered lease agreement dated 10th February 2021 with my client for a lease period of three years at a monthly rent of Rs. 28,000/- (Rupees Twenty-Eight Thousand only), payable on or before the 5th of every English calendar month. 3. The",
+    "keywords": [
+      "follows:",
+      "1.",
+      "my",
+      "client",
+      "is",
+      "the",
+      "absolute",
+      "owner",
+      "and",
+      "landlord"
+    ],
+    "createdAt": "2026-11-04T15:13:37.713Z"
+  },
+  {
+    "_id": "chk_1793805217713_3",
+    "ownerId": "usr_citizen_01",
+    "caseId": "case_01",
+    "documentId": "doc_1793805217710",
+    "title": "sample_legal_notice.txt",
+    "pageNumber": 1,
+    "chunkIndex": 3,
+    "text": "es Twenty-Eight Thousand only), payable on or before the 5th of every English calendar month. 3. The said registered lease period expired on 9th February 2024. Thereafter, you continued in occupation as a tenant from month to month with my client's consent. 4. You have committed default in payment of monthly rents from August 2025 to December 2025, accumulating rental arrears of Rs. 1,40,000/- (Rupees One Lakh Forty Thousand only). 5. My client requires the Schedule Premises bona fide for his",
+    "keywords": [
+      "es",
+      "twenty-eight",
+      "thousand",
+      "only),",
+      "payable",
+      "on",
+      "or",
+      "before",
+      "the",
+      "5th"
+    ],
+    "createdAt": "2026-11-04T15:13:37.713Z"
+  },
+  {
+    "_id": "chk_1793805217713_4",
+    "ownerId": "usr_citizen_01",
+    "caseId": "case_01",
+    "documentId": "doc_1793805217710",
+    "title": "sample_legal_notice.txt",
+    "pageNumber": 1,
+    "chunkIndex": 4,
+    "text": "(Rupees One Lakh Forty Thousand only). 5. My client requires the Schedule Premises bona fide for his own personal commercial use and renovation. My client no longer wishes to continue your tenancy. 6. TAKE NOTICE that your monthly tenancy in respect of the Schedule Premises stands TERMINATED upon the expiry of fifteen (15) clear days from the date of receipt of this notice, in terms of Section 106 of the Transfer of Property Act, 1882. 7. You are hereby called upon to: (a) Hand over peaceful and",
+    "keywords": [
+      "(rupees",
+      "one",
+      "lakh",
+      "forty",
+      "thousand",
+      "only).",
+      "5.",
+      "my",
+      "client",
+      "requires"
+    ],
+    "createdAt": "2026-11-04T15:13:37.713Z"
+  },
+  {
+    "_id": "chk_1793805217713_5",
+    "ownerId": "usr_citizen_01",
+    "caseId": "case_01",
+    "documentId": "doc_1793805217710",
+    "title": "sample_legal_notice.txt",
+    "pageNumber": 1,
+    "chunkIndex": 5,
+    "text": "of the Transfer of Property Act, 1882. 7. You are hereby called upon to: (a) Hand over peaceful and vacant possession of the Schedule Premises to my client on or before 5th February 2026; and (b) Pay the outstanding rental arrears of Rs. 1,40,000/- together with interest at 12% per annum within fifteen days of receipt of this notice. 8. In the event of your failure to comply with the above demands within the stipulated period, my client will be constrained to initiate appropriate eviction",
+    "keywords": [
+      "of",
+      "the",
+      "transfer",
+      "of",
+      "property",
+      "act,",
+      "1882.",
+      "7.",
+      "you",
+      "are"
+    ],
+    "createdAt": "2026-11-04T15:13:37.713Z"
+  },
+  {
+    "_id": "chk_1793805217713_6",
+    "ownerId": "usr_citizen_01",
+    "caseId": "case_01",
+    "documentId": "doc_1793805217710",
+    "title": "sample_legal_notice.txt",
+    "pageNumber": 1,
+    "chunkIndex": 6,
+    "text": "demands within the stipulated period, my client will be constrained to initiate appropriate eviction proceedings before the competent Rent Tribunal / Civil Court at Madurai, holding you liable for all mesne profits and litigation costs. Yours faithfully, (Adv. K. Ramanathan) Counsel for Landlord Madurai Bench of Madras High Court Madurai, Tamil Nadu",
+    "keywords": [
+      "demands",
+      "within",
+      "the",
+      "stipulated",
+      "period,",
+      "my",
+      "client",
+      "will",
+      "be",
+      "constrained"
+    ],
+    "createdAt": "2026-11-04T15:13:37.713Z"
+  }
+]

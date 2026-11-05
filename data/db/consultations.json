@@ -1,0 +1,139 @@
+[
+  {
+    "_id": "con_01",
+    "citizenId": "usr_citizen_01",
+    "advocateId": "adv_01",
+    "caseId": "case_01",
+    "caseTitle": "Commercial Tenancy Termination & Recovery of Rent Arrears",
+    "message": "Need urgent advice on filing the eviction petition before Madurai Rent Tribunal following expiry of the statutory 15-day notice period.",
+    "mode": "IN_PERSON",
+    "preferredDate": "2026-02-06",
+    "status": "ACCEPTED",
+    "responseNote": "Request accepted. Please bring original registered lease deed and postal acknowledgement slip to chambers.",
+    "isDemo": true,
+    "createdAt": "2026-11-04T15:43:20.550Z",
+    "updatedAt": "2026-11-04T15:43:20.550Z"
+  },
+  {
+    "_id": "con_test_1793099771537",
+    "citizenId": "usr_citizen_01",
+    "advocateId": "adv_01",
+    "message": "Urgent eviction consultation test",
+    "mode": "IN_PERSON",
+    "status": "ACCEPTED",
+    "createdAt": "2026-10-27T11:16:11.537Z",
+    "updatedAt": "2026-10-27T11:16:11.537Z",
+    "responseNote": "Chamber appointment confirmed for Monday 10:00 AM."
+  },
+  {
+    "_id": "con_test_1793099838805",
+    "citizenId": "usr_citizen_01",
+    "advocateId": "adv_01",
+    "message": "Urgent eviction consultation test",
+    "mode": "IN_PERSON",
+    "status": "ACCEPTED",
+    "createdAt": "2026-10-27T11:17:18.805Z",
+    "updatedAt": "2026-10-27T11:17:18.806Z",
+    "responseNote": "Chamber appointment confirmed for Monday 10:00 AM."
+  },
+  {
+    "_id": "con_test_1793100100883",
+    "citizenId": "usr_citizen_01",
+    "advocateId": "adv_01",
+    "message": "Urgent eviction consultation test",
+    "mode": "IN_PERSON",
+    "status": "ACCEPTED",
+    "createdAt": "2026-10-27T11:21:40.883Z",
+    "updatedAt": "2026-10-27T11:21:40.884Z",
+    "responseNote": "Chamber appointment confirmed for Monday 10:00 AM."
+  },
+  {
+    "_id": "con_test_1793106356054",
+    "citizenId": "usr_citizen_01",
+    "advocateId": "adv_01",
+    "message": "Urgent eviction consultation test",
+    "mode": "IN_PERSON",
+    "status": "ACCEPTED",
+    "createdAt": "2026-10-27T13:05:56.054Z",
+    "updatedAt": "2026-10-27T13:05:56.054Z",
+    "responseNote": "Chamber appointment confirmed for Monday 10:00 AM."
+  },
+  {
+    "_id": "con_test_1793106737018",
+    "citizenId": "usr_citizen_01",
+    "advocateId": "adv_01",
+    "message": "Urgent eviction consultation test",
+    "mode": "IN_PERSON",
+    "status": "ACCEPTED",
+    "createdAt": "2026-10-27T13:12:17.018Z",
+    "updatedAt": "2026-10-27T13:12:17.018Z",
+    "responseNote": "Chamber appointment confirmed for Monday 10:00 AM."
+  },
+  {
+    "_id": "con_test_1793106837663",
+    "citizenId": "usr_citizen_01",
+    "advocateId": "adv_01",
+    "message": "Urgent eviction consultation test",
+    "mode": "IN_PERSON",
+    "status": "ACCEPTED",
+    "createdAt": "2026-10-27T13:13:57.663Z",
+    "updatedAt": "2026-10-27T13:13:57.663Z",
+    "responseNote": "Chamber appointment confirmed for Monday 10:00 AM."
+  },
+  {
+    "_id": "con_test_1793110517235",
+    "citizenId": "usr_citizen_01",
+    "advocateId": "adv_01",
+    "message": "Urgent eviction consultation test",
+    "mode": "IN_PERSON",
+    "status": "ACCEPTED",
+    "createdAt": "2026-10-27T14:15:17.235Z",
+    "updatedAt": "2026-10-27T14:15:17.236Z",
+    "responseNote": "Chamber appointment confirmed for Monday 10:00 AM."
+  },
+  {
+    "_id": "con_test_1793629711716",
+    "citizenId": "usr_citizen_01",
+    "advocateId": "adv_01",
+    "message": "Urgent eviction consultation test",
+    "mode": "IN_PERSON",
+    "status": "ACCEPTED",
+    "createdAt": "2026-11-02T14:28:31.716Z",
+    "updatedAt": "2026-11-02T14:28:31.716Z",
+    "responseNote": "Chamber appointment confirmed for Monday 10:00 AM."
+  },
+  {
+    "_id": "con_test_1793637311080",
+    "citizenId": "usr_citizen_01",
+    "advocateId": "adv_01",
+    "message": "Urgent eviction consultation test",
+    "mode": "IN_PERSON",
+    "status": "ACCEPTED",
+    "createdAt": "2026-11-02T16:35:11.080Z",
+    "updatedAt": "2026-11-02T16:35:11.081Z",
+    "responseNote": "Chamber appointment confirmed for Monday 10:00 AM."
+  },
+  {
+    "_id": "con_test_1793637551413",
+    "citizenId": "usr_citizen_01",
+    "advocateId": "adv_01",
+    "message": "Urgent eviction consultation test",
+    "mode": "IN_PERSON",
+    "status": "ACCEPTED",
+    "createdAt": "2026-11-02T16:39:11.413Z",
+    "updatedAt": "2026-11-02T16:39:11.413Z",
+    "responseNote": "Chamber appointment confirmed for Monday 10:00 AM."
+  },
+  {
+    "_id": "con_1793805098005",
+    "citizenId": "usr_1793805095892",
+    "advocateId": "adv_01",
+    "caseId": "case_1793805096087",
+    "caseTitle": "Agricultural Boundary Dispute - Vadipatti Taluk",
+    "message": "Sir, requesting consultation for land title injunction petition.",
+    "mode": "IN_PERSON",
+    "status": "PENDING",
+    "createdAt": "2026-11-04T15:11:38.005Z",
+    "updatedAt": "2026-11-04T15:11:38.005Z"
+  }
+]

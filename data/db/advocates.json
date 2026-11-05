@@ -1,0 +1,1396 @@
+[
+  {
+    "_id": "adv_01",
+    "userId": "usr_adv_01",
+    "fullName": "Adv. S. Muthukrishnan",
+    "email": "advocate.advsmuthukrishnan1@example.com",
+    "phone": "+91 9443000001",
+    "barCouncilNumber": "TN/DEMO/2020/1000",
+    "barCouncilNumberMasked": "TN/****/1000",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "city": "Madurai",
+    "locality": "Madurai",
+    "practiceAreas": [
+      "Property",
+      "Civil",
+      "Revenue Law"
+    ],
+    "yearsOfExperience": 18,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "Madurai Bench of Madras High Court",
+      "District Court, Madurai"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call"
+    ],
+    "feeRange": "₹1,000 / Session (Legal Aid Subsidized)",
+    "availability": true,
+    "availabilityStatus": "Available Today",
+    "rating": 4.9,
+    "reviewCount": 42,
+    "bio": "Senior practitioner with 18 years at the Madurai Bench specializing in agricultural land partitions, tenant eviction disputes, and civil title declaration suits.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_02",
+    "userId": "usr_adv_02",
+    "fullName": "Adv. Meenakshi Sundararajan",
+    "email": "advocate.advmeenakshisundararajan2@example.com",
+    "phone": "+91 9443000002",
+    "barCouncilNumber": "TN/DEMO/2021/1001",
+    "barCouncilNumberMasked": "TN/****/1001",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "city": "Madurai",
+    "locality": "Madurai",
+    "practiceAreas": [
+      "Family",
+      "Matrimonial",
+      "Domestic Violence"
+    ],
+    "yearsOfExperience": 14,
+    "languages": [
+      "Tamil",
+      "English",
+      "Hindi"
+    ],
+    "courts": [
+      "Family Court Madurai",
+      "High Court Madurai Bench"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call",
+      "Phone"
+    ],
+    "feeRange": "Free Legal Aid / Pro Bono (NALSA Enpaneled)",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.8,
+    "reviewCount": 38,
+    "bio": "Certified mediation counsel focusing on family reconciliation, maintenance petitions under Sec 125 CrPC, and child custody arrangements.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_03",
+    "userId": "usr_adv_03",
+    "fullName": "Adv. K. Ramanathan",
+    "email": "advocate.advkramanathan3@example.com",
+    "phone": "+91 9443000003",
+    "barCouncilNumber": "TN/DEMO/2022/1002",
+    "barCouncilNumberMasked": "TN/****/1002",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "city": "Madurai",
+    "locality": "Madurai",
+    "practiceAreas": [
+      "Commercial",
+      "Negotiable Instruments",
+      "Consumer"
+    ],
+    "yearsOfExperience": 12,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "Commercial Court Madurai",
+      "District Consumer Commission"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call"
+    ],
+    "feeRange": "₹800 / Session",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.7,
+    "reviewCount": 29,
+    "bio": "Experienced litigator in Section 138 NI Act cheque dishonour cases, consumer grievance advocacy, and commercial contract drafting.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_04",
+    "userId": "usr_adv_04",
+    "fullName": "Adv. R. Venkatesh Prasanna",
+    "email": "advocate.advrvenkateshprasanna4@example.com",
+    "phone": "+91 9443000004",
+    "barCouncilNumber": "TN/DEMO/2023/1003",
+    "barCouncilNumberMasked": "TN/****/1003",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "city": "Chennai",
+    "locality": "Chennai",
+    "practiceAreas": [
+      "Constitutional",
+      "Civil Writ",
+      "Property"
+    ],
+    "yearsOfExperience": 22,
+    "languages": [
+      "English",
+      "Tamil"
+    ],
+    "courts": [
+      "Madras High Court (Principal Seat)",
+      "City Civil Court Chennai"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call"
+    ],
+    "feeRange": "₹1,500 / Session",
+    "availability": true,
+    "availabilityStatus": "Available Today",
+    "rating": 4.9,
+    "reviewCount": 64,
+    "bio": "Senior High Court advocate handling writ petitions under Article 226, municipal land disputes, and high-value inheritance settlements.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_05",
+    "userId": "usr_adv_05",
+    "fullName": "Adv. Shalini Annamalai",
+    "email": "advocate.advshaliniannamalai5@example.com",
+    "phone": "+91 9443000005",
+    "barCouncilNumber": "TN/DEMO/2024/1004",
+    "barCouncilNumberMasked": "TN/****/1004",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "city": "Chennai",
+    "locality": "Chennai",
+    "practiceAreas": [
+      "Cyber Crime",
+      "Intellectual Property",
+      "Consumer"
+    ],
+    "yearsOfExperience": 9,
+    "languages": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "courts": [
+      "Madras High Court",
+      "Chief Metropolitan Magistrate Court Egmore"
+    ],
+    "consultationModes": [
+      "Video Call",
+      "Phone"
+    ],
+    "feeRange": "₹1,000 / Session",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "bio": "Technology law specialist assisting citizens in financial phishing frauds, identity theft complaints under IT Act 2000, and e-commerce consumer claims.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_06",
+    "userId": "usr_adv_06",
+    "fullName": "Adv. N. Chandrasekar",
+    "email": "advocate.advnchandrasekar6@example.com",
+    "phone": "+91 9443000006",
+    "barCouncilNumber": "TN/DEMO/2025/1005",
+    "barCouncilNumberMasked": "TN/****/1005",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "city": "Chennai",
+    "locality": "Chennai",
+    "practiceAreas": [
+      "Labour",
+      "Employment",
+      "Service Law"
+    ],
+    "yearsOfExperience": 16,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "Industrial Tribunal Chennai",
+      "High Court of Madras"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Phone"
+    ],
+    "feeRange": "₹750 / Session",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.6,
+    "reviewCount": 24,
+    "bio": "Specialist in gratuity disputes, wrongful termination appeals, and industrial employment standing orders compliance.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_07",
+    "userId": "usr_adv_07",
+    "fullName": "Adv. V. Balasubramanian",
+    "email": "advocate.advvbalasubramanian7@example.com",
+    "phone": "+91 9443000007",
+    "barCouncilNumber": "TN/DEMO/2020/1006",
+    "barCouncilNumberMasked": "TN/****/1006",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "locality": "Coimbatore",
+    "practiceAreas": [
+      "Corporate",
+      "Commercial",
+      "Arbitration"
+    ],
+    "yearsOfExperience": 19,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "Coimbatore District Court",
+      "Madras High Court"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call"
+    ],
+    "feeRange": "₹1,200 / Session",
+    "availability": true,
+    "availabilityStatus": "Available Today",
+    "rating": 4.9,
+    "reviewCount": 45,
+    "bio": "Industrial and commercial advocate representing MSMEs in textile machinery lease disputes, arbitration, and supplier recovery.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_08",
+    "userId": "usr_adv_08",
+    "fullName": "Adv. Deepa Soundararajan",
+    "email": "advocate.advdeepasoundararajan8@example.com",
+    "phone": "+91 9443000008",
+    "barCouncilNumber": "TN/DEMO/2021/1007",
+    "barCouncilNumberMasked": "TN/****/1007",
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "locality": "Coimbatore",
+    "practiceAreas": [
+      "Family",
+      "Women Rights",
+      "Consumer"
+    ],
+    "yearsOfExperience": 11,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "Combined Court Complex Coimbatore"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call",
+      "Phone"
+    ],
+    "feeRange": "Free Legal Aid / Pro Bono (DLSA Coimbatore)",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.7,
+    "reviewCount": 33,
+    "bio": "Pro bono advocate enpaneled with District Legal Services Authority Coimbatore, assisting marginalized families and consumer victims.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_09",
+    "userId": "usr_adv_09",
+    "fullName": "Adv. A. Ganesan",
+    "email": "advocate.advaganesan9@example.com",
+    "phone": "+91 9443000009",
+    "barCouncilNumber": "TN/DEMO/2022/1008",
+    "barCouncilNumberMasked": "TN/****/1008",
+    "state": "Tamil Nadu",
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "locality": "Tiruchirappalli",
+    "practiceAreas": [
+      "Property",
+      "Land Acquisition",
+      "Civil"
+    ],
+    "yearsOfExperience": 20,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "District & Sessions Court Tiruchirappalli"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Phone"
+    ],
+    "feeRange": "₹600 / Session",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "bio": "Two decades of practice in Trichy handling Cauvery delta riverbank agricultural title disputes, easement rights, and compensation claims.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_10",
+    "userId": "usr_adv_10",
+    "fullName": "Adv. Malathi Selvam",
+    "email": "advocate.advmalathiselvam10@example.com",
+    "phone": "+91 9443000010",
+    "barCouncilNumber": "TN/DEMO/2023/1009",
+    "barCouncilNumberMasked": "TN/****/1009",
+    "state": "Tamil Nadu",
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "locality": "Tiruchirappalli",
+    "practiceAreas": [
+      "Family",
+      "Domestic Relations",
+      "Cyber Crime"
+    ],
+    "yearsOfExperience": 8,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "District Court Trichy"
+    ],
+    "consultationModes": [
+      "Video Call",
+      "In-Person"
+    ],
+    "feeRange": "₹500 / Session",
+    "availability": true,
+    "availabilityStatus": "Available Today",
+    "rating": 4.6,
+    "reviewCount": 21,
+    "bio": "Compassionate advocate dedicated to matrimonial conciliation, digital harassment FIR drafting, and Lok Adalat pre-litigation settlements.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_11",
+    "userId": "usr_adv_11",
+    "fullName": "Adv. C. Shanmugasundaram",
+    "email": "advocate.advcshanmugasundaram11@example.com",
+    "phone": "+91 9443000011",
+    "barCouncilNumber": "TN/DEMO/2024/1010",
+    "barCouncilNumberMasked": "TN/****/1010",
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "city": "Salem",
+    "locality": "Salem",
+    "practiceAreas": [
+      "Motor Accident Claims",
+      "Insurance",
+      "Civil"
+    ],
+    "yearsOfExperience": 15,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "MACT Salem",
+      "District Court Salem"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Phone"
+    ],
+    "feeRange": "₹700 / Session",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.7,
+    "reviewCount": 36,
+    "bio": "Expert in Motor Accidents Claims Tribunal (MACT) petitions, third-party insurance claims, and accidental permanent disability compensation.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_12",
+    "userId": "usr_adv_12",
+    "fullName": "Adv. Rajeshwari Natarajan",
+    "email": "advocate.advrajeshwarinatarajan12@example.com",
+    "phone": "+91 9443000012",
+    "barCouncilNumber": "TN/DEMO/2025/1011",
+    "barCouncilNumberMasked": "TN/****/1011",
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "city": "Salem",
+    "locality": "Salem",
+    "practiceAreas": [
+      "Banking",
+      "Debt Recovery",
+      "Consumer"
+    ],
+    "yearsOfExperience": 13,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "Salem Commercial Court",
+      "DRT Madurai"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call"
+    ],
+    "feeRange": "₹900 / Session",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.8,
+    "reviewCount": 27,
+    "bio": "Advises borrowers and small business owners on SARFAESI Act notices, banking ombudsman complaints, and loan restructuring.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_13",
+    "userId": "usr_adv_13",
+    "fullName": "Adv. P. Nellaiyappan",
+    "email": "advocate.advpnellaiyappan13@example.com",
+    "phone": "+91 9443000013",
+    "barCouncilNumber": "TN/DEMO/2020/1012",
+    "barCouncilNumberMasked": "TN/****/1012",
+    "state": "Tamil Nadu",
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "locality": "Tirunelveli",
+    "practiceAreas": [
+      "Criminal",
+      "Bail Matters",
+      "Human Rights"
+    ],
+    "yearsOfExperience": 17,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "Principal District & Sessions Court Tirunelveli"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Phone"
+    ],
+    "feeRange": "₹1,000 / Session",
+    "availability": true,
+    "availabilityStatus": "Available Today",
+    "rating": 4.8,
+    "reviewCount": 41,
+    "bio": "Trial lawyer specializing in regular bail, anticipatory bail under Sec 438 CrPC, and criminal trial defense in IPC / BNS matters.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_14",
+    "userId": "usr_adv_14",
+    "fullName": "Adv. K. Subbulakshmi",
+    "email": "advocate.advksubbulakshmi14@example.com",
+    "phone": "+91 9443000014",
+    "barCouncilNumber": "TN/DEMO/2021/1013",
+    "barCouncilNumberMasked": "TN/****/1013",
+    "state": "Tamil Nadu",
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "locality": "Tirunelveli",
+    "practiceAreas": [
+      "Civil",
+      "Family",
+      "Property"
+    ],
+    "yearsOfExperience": 10,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "Sub-Court Tirunelveli",
+      "High Court Madurai Bench"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call"
+    ],
+    "feeRange": "Free Legal Aid / Pro Bono (DLSA Tirunelveli)",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.7,
+    "reviewCount": 22,
+    "bio": "Handles partition suits, women ancestral property rights under Hindu Succession (Amendment) Act, and village revenue appeals.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_15",
+    "userId": "usr_adv_15",
+    "fullName": "Adv. M. Marimuthu",
+    "email": "advocate.advmmarimuthu15@example.com",
+    "phone": "+91 9443000015",
+    "barCouncilNumber": "TN/DEMO/2022/1014",
+    "barCouncilNumberMasked": "TN/****/1014",
+    "state": "Tamil Nadu",
+    "district": "Virudhunagar",
+    "city": "Sivakasi",
+    "locality": "Sivakasi",
+    "practiceAreas": [
+      "Labour",
+      "Industrial Safety",
+      "Commercial"
+    ],
+    "yearsOfExperience": 16,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "District Court Virudhunagar at Srivilliputtur",
+      "Labour Court Madurai"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Phone"
+    ],
+    "feeRange": "₹600 / Session",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.7,
+    "reviewCount": 29,
+    "bio": "Industrial safety compliance counsel for printing and fireworks establishments; handles employee state insurance and workmen compensation.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_16",
+    "userId": "usr_adv_16",
+    "fullName": "Adv. S. Vijayalakshmi",
+    "email": "advocate.advsvijayalakshmi16@example.com",
+    "phone": "+91 9443000016",
+    "barCouncilNumber": "TN/DEMO/2023/1015",
+    "barCouncilNumberMasked": "TN/****/1015",
+    "state": "Tamil Nadu",
+    "district": "Virudhunagar",
+    "city": "Virudhunagar",
+    "locality": "Virudhunagar",
+    "practiceAreas": [
+      "Property",
+      "Consumer",
+      "Negotiable Instruments"
+    ],
+    "yearsOfExperience": 9,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "Judicial Magistrate Court Virudhunagar"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call"
+    ],
+    "feeRange": "₹500 / Session",
+    "availability": true,
+    "availabilityStatus": "Available Today",
+    "rating": 4.6,
+    "reviewCount": 18,
+    "bio": "Focused on local merchant disputes, Section 138 NI Act notices, consumer redressal against defective agro-products, and title deeds verification.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_17",
+    "userId": "usr_adv_17",
+    "fullName": "Adv. T. Jebaraj Fernando",
+    "email": "advocate.advtjebarajfernando17@example.com",
+    "phone": "+91 9443000017",
+    "barCouncilNumber": "TN/DEMO/2024/1016",
+    "barCouncilNumberMasked": "TN/****/1016",
+    "state": "Tamil Nadu",
+    "district": "Thoothukudi",
+    "city": "Thoothukudi",
+    "locality": "Thoothukudi",
+    "practiceAreas": [
+      "Maritime Law",
+      "Customs",
+      "Commercial"
+    ],
+    "yearsOfExperience": 21,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "District Court Thoothukudi",
+      "Madras High Court"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call"
+    ],
+    "feeRange": "₹1,400 / Session",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.9,
+    "reviewCount": 50,
+    "bio": "Port and shipping advocate advising cargo clearing agents, customs show-cause notices, export contracts, and marine insurance disputes.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_18",
+    "userId": "usr_adv_18",
+    "fullName": "Adv. Stella Mary",
+    "email": "advocate.advstellamary18@example.com",
+    "phone": "+91 9443000018",
+    "barCouncilNumber": "TN/DEMO/2025/1017",
+    "barCouncilNumberMasked": "TN/****/1017",
+    "state": "Tamil Nadu",
+    "district": "Thoothukudi",
+    "city": "Thoothukudi",
+    "locality": "Thoothukudi",
+    "practiceAreas": [
+      "Family",
+      "Women Rights",
+      "Civil"
+    ],
+    "yearsOfExperience": 12,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "Family Court Thoothukudi",
+      "DLSA Thoothukudi"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Phone"
+    ],
+    "feeRange": "Free Legal Aid / Pro Bono (DLSA)",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "bio": "Dedicated legal aid practitioner assisting coastal fishing community members in social security schemes, domestic disputes, and welfare rights.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_19",
+    "userId": "usr_adv_19",
+    "fullName": "Adv. D. Dhandapani",
+    "email": "advocate.advddhandapani19@example.com",
+    "phone": "+91 9443000019",
+    "barCouncilNumber": "TN/DEMO/2020/1018",
+    "barCouncilNumberMasked": "TN/****/1018",
+    "state": "Tamil Nadu",
+    "district": "Dindigul",
+    "city": "Dindigul",
+    "locality": "Dindigul",
+    "practiceAreas": [
+      "Property",
+      "Revenue",
+      "Agricultural Land"
+    ],
+    "yearsOfExperience": 18,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "Combined Court Complex Dindigul",
+      "Madurai Bench"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Phone"
+    ],
+    "feeRange": "₹700 / Session",
+    "availability": true,
+    "availabilityStatus": "Available Today",
+    "rating": 4.7,
+    "reviewCount": 34,
+    "bio": "Well-versed in patta transfer disputes, revenue sub-division appeals before RDO, boundary demarcation, and agricultural lease issues.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_20",
+    "userId": "usr_adv_20",
+    "fullName": "Adv. Revathi Jayaprakash",
+    "email": "advocate.advrevathijayaprakash20@example.com",
+    "phone": "+91 9443000020",
+    "barCouncilNumber": "TN/DEMO/2021/1019",
+    "barCouncilNumberMasked": "TN/****/1019",
+    "state": "Tamil Nadu",
+    "district": "Dindigul",
+    "city": "Palani",
+    "locality": "Palani",
+    "practiceAreas": [
+      "Consumer",
+      "Banking",
+      "Family"
+    ],
+    "yearsOfExperience": 8,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "Sub-Court Palani",
+      "Dindigul Consumer Forum"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call"
+    ],
+    "feeRange": "₹500 / Session",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.5,
+    "reviewCount": 17,
+    "bio": "Consumer rights advocate handling insurance repudiation disputes, medical negligence complaints, and personal banking grievances.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_21",
+    "userId": "usr_adv_21",
+    "fullName": "Adv. S. Kannan",
+    "email": "advocate.advskannan21@example.com",
+    "phone": "+91 9443000021",
+    "barCouncilNumber": "TN/DEMO/2022/1020",
+    "barCouncilNumberMasked": "TN/****/1020",
+    "state": "Tamil Nadu",
+    "district": "Sivaganga",
+    "city": "Karaikudi",
+    "locality": "Karaikudi",
+    "practiceAreas": [
+      "Property",
+      "Heritage Properties",
+      "Civil"
+    ],
+    "yearsOfExperience": 23,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "District Court Sivaganga",
+      "Madurai Bench High Court"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call"
+    ],
+    "feeRange": "₹1,200 / Session",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.9,
+    "reviewCount": 48,
+    "bio": "Eminent civil counsel in Chettinad ancestral mansions title verification, joint family partition deeds, and gift deed revocation suits.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_22",
+    "userId": "usr_adv_22",
+    "fullName": "Adv. Bhavani Murugesan",
+    "email": "advocate.advbhavanimurugesan22@example.com",
+    "phone": "+91 9443000022",
+    "barCouncilNumber": "TN/DEMO/2023/1021",
+    "barCouncilNumberMasked": "TN/****/1021",
+    "state": "Tamil Nadu",
+    "district": "Sivaganga",
+    "city": "Sivaganga",
+    "locality": "Sivaganga",
+    "practiceAreas": [
+      "Criminal",
+      "Bail",
+      "Domestic Relations"
+    ],
+    "yearsOfExperience": 11,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "Principal District Court Sivaganga"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Phone"
+    ],
+    "feeRange": "₹600 / Session",
+    "availability": true,
+    "availabilityStatus": "Available Today",
+    "rating": 4.6,
+    "reviewCount": 23,
+    "bio": "Active practitioner in criminal defence, private complaint filings under Section 200 CrPC, and child maintenance enforcement.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_23",
+    "userId": "usr_adv_23",
+    "fullName": "Adv. N. Thevaraj",
+    "email": "advocate.advnthevaraj23@example.com",
+    "phone": "+91 9443000023",
+    "barCouncilNumber": "TN/DEMO/2024/1022",
+    "barCouncilNumberMasked": "TN/****/1022",
+    "state": "Tamil Nadu",
+    "district": "Theni",
+    "city": "Theni",
+    "locality": "Theni",
+    "practiceAreas": [
+      "Agricultural Law",
+      "Water Rights",
+      "Property"
+    ],
+    "yearsOfExperience": 15,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "District Court Theni",
+      "Madurai Bench High Court"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Phone"
+    ],
+    "feeRange": "₹600 / Session",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.7,
+    "reviewCount": 28,
+    "bio": "Focuses on Periyar-Vaigai irrigation channel water disputes, plantation land boundary settlements in Cumbum Valley, and agricultural loan disputes.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_24",
+    "userId": "usr_adv_24",
+    "fullName": "Adv. Gomathi Pandian",
+    "email": "advocate.advgomathipandian24@example.com",
+    "phone": "+91 9443000024",
+    "barCouncilNumber": "TN/DEMO/2025/1023",
+    "barCouncilNumberMasked": "TN/****/1023",
+    "state": "Tamil Nadu",
+    "district": "Theni",
+    "city": "Periyakulam",
+    "locality": "Periyakulam",
+    "practiceAreas": [
+      "Family",
+      "Women Protection",
+      "Consumer"
+    ],
+    "yearsOfExperience": 9,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "Sub-Court Periyakulam",
+      "DLSA Theni"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call"
+    ],
+    "feeRange": "Free Legal Aid / Pro Bono (DLSA Theni)",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "bio": "Legal aid lawyer handling domestic violence protective orders, senior citizen maintenance petitions, and Lok Adalat mediation.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_25",
+    "userId": "usr_adv_25",
+    "fullName": "Adv. R. Thanjavur Sundaram",
+    "email": "advocate.advrthanjavursundaram25@example.com",
+    "phone": "+91 9443000025",
+    "barCouncilNumber": "TN/DEMO/2020/1024",
+    "barCouncilNumberMasked": "TN/****/1024",
+    "state": "Tamil Nadu",
+    "district": "Thanjavur",
+    "city": "Thanjavur",
+    "locality": "Thanjavur",
+    "practiceAreas": [
+      "Civil",
+      "Temple Endowments (HR&CE)",
+      "Property"
+    ],
+    "yearsOfExperience": 24,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "Principal District Court Thanjavur",
+      "Madras High Court"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call"
+    ],
+    "feeRange": "₹1,000 / Session",
+    "availability": true,
+    "availabilityStatus": "Available Today",
+    "rating": 4.9,
+    "reviewCount": 53,
+    "bio": "Renowned expert in Hindu Religious & Charitable Endowments (HR&CE) tenancy matters, delta agricultural lease litigation, and trust declarations.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_26",
+    "userId": "usr_adv_26",
+    "fullName": "Adv. S. Erode Senguttuvan",
+    "email": "advocate.advserodesenguttuvan26@example.com",
+    "phone": "+91 9443000026",
+    "barCouncilNumber": "TN/DEMO/2021/1025",
+    "barCouncilNumberMasked": "TN/****/1025",
+    "state": "Tamil Nadu",
+    "district": "Erode",
+    "city": "Erode",
+    "locality": "Erode",
+    "practiceAreas": [
+      "Commercial",
+      "Textile Trade",
+      "Arbitration"
+    ],
+    "yearsOfExperience": 16,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "District Court Erode",
+      "Coimbatore Commercial Court"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call"
+    ],
+    "feeRange": "₹800 / Session",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.7,
+    "reviewCount": 32,
+    "bio": "Specialist in yarn trade recovery suits, consignment disputes, trademark enforcement for apparel brands, and commercial mediation.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_27",
+    "userId": "usr_adv_27",
+    "fullName": "Adv. K. Velmurugan",
+    "email": "advocate.advkvelmurugan27@example.com",
+    "phone": "+91 9443000027",
+    "barCouncilNumber": "TN/DEMO/2022/1026",
+    "barCouncilNumberMasked": "TN/****/1026",
+    "state": "Tamil Nadu",
+    "district": "Tiruppur",
+    "city": "Tiruppur",
+    "locality": "Tiruppur",
+    "practiceAreas": [
+      "Labour",
+      "Apparel Export",
+      "Customs"
+    ],
+    "yearsOfExperience": 14,
+    "languages": [
+      "Tamil",
+      "English",
+      "Hindi"
+    ],
+    "courts": [
+      "Labour Court Coimbatore/Tiruppur",
+      "Customs Appellate"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Phone"
+    ],
+    "feeRange": "₹850 / Session",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.6,
+    "reviewCount": 26,
+    "bio": "Represents garment export manufacturers and labor unions in wage settlements, contract labour disputes, and factory compliance audits.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_28",
+    "userId": "usr_adv_28",
+    "fullName": "Adv. Anbarasu Kanchirajan",
+    "email": "advocate.advanbarasukanchirajan28@example.com",
+    "phone": "+91 9443000028",
+    "barCouncilNumber": "TN/DEMO/2023/1027",
+    "barCouncilNumberMasked": "TN/****/1027",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "city": "Kanchipuram",
+    "locality": "Kanchipuram",
+    "practiceAreas": [
+      "Property",
+      "Silk Weavers Rights",
+      "Consumer"
+    ],
+    "yearsOfExperience": 13,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "District Court Chengalpattu / Kanchipuram"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call"
+    ],
+    "feeRange": "₹600 / Session",
+    "availability": true,
+    "availabilityStatus": "Available Today",
+    "rating": 4.7,
+    "reviewCount": 24,
+    "bio": "Covers traditional artisan Geographical Indication (GI) rights for Kanchipuram silk, cooperative society disputes, and urban real estate contracts.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_29",
+    "userId": "usr_adv_29",
+    "fullName": "Adv. Victor Aruldoss",
+    "email": "advocate.advvictoraruldoss29@example.com",
+    "phone": "+91 9443000029",
+    "barCouncilNumber": "TN/DEMO/2024/1028",
+    "barCouncilNumberMasked": "TN/****/1028",
+    "state": "Tamil Nadu",
+    "district": "Vellore",
+    "city": "Vellore",
+    "locality": "Vellore",
+    "practiceAreas": [
+      "Medical Negligence",
+      "Civil",
+      "Consumer"
+    ],
+    "yearsOfExperience": 17,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "Principal District Court Vellore",
+      "Consumer Commission"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call",
+      "Phone"
+    ],
+    "feeRange": "₹900 / Session",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.8,
+    "reviewCount": 37,
+    "bio": "Experienced in healthcare consumer cases, medical malpractice claims, leather tannery environmental compliance, and property partition.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_30",
+    "userId": "usr_adv_30",
+    "fullName": "Adv. S. Cuddalore Ramadoss",
+    "email": "advocate.advscuddaloreramadoss30@example.com",
+    "phone": "+91 9443000030",
+    "barCouncilNumber": "TN/DEMO/2025/1029",
+    "barCouncilNumberMasked": "TN/****/1029",
+    "state": "Tamil Nadu",
+    "district": "Cuddalore",
+    "city": "Cuddalore",
+    "locality": "Cuddalore",
+    "practiceAreas": [
+      "Environmental",
+      "Coastal Regulation",
+      "Property"
+    ],
+    "yearsOfExperience": 19,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "District Court Cuddalore",
+      "National Green Tribunal Southern Zone"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call"
+    ],
+    "feeRange": "₹1,000 / Session",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.8,
+    "reviewCount": 35,
+    "bio": "Appears before the National Green Tribunal (NGT) in industrial pollution matters, CRZ coastal clearance disputes, and land acquisition appeals.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_31",
+    "userId": "usr_adv_31",
+    "fullName": "Adv. N. Nagapattinam Jayaraman",
+    "email": "advocate.advnnagapattinamjayaraman31@example.com",
+    "phone": "+91 9443000031",
+    "barCouncilNumber": "TN/DEMO/2020/1030",
+    "barCouncilNumberMasked": "TN/****/1030",
+    "state": "Tamil Nadu",
+    "district": "Nagapattinam",
+    "city": "Nagapattinam",
+    "locality": "Nagapattinam",
+    "practiceAreas": [
+      "Fisheries Law",
+      "Disaster Rehabilitation",
+      "Civil"
+    ],
+    "yearsOfExperience": 15,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "District Court Nagapattinam"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Phone"
+    ],
+    "feeRange": "Free Legal Aid / Pro Bono (DLSA Nagapattinam)",
+    "availability": true,
+    "availabilityStatus": "Available Today",
+    "rating": 4.7,
+    "reviewCount": 29,
+    "bio": "Dedicated public-interest advocate addressing fishermen territorial waters detention issues, cyclone relief insurance, and rural land title disputes.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_32",
+    "userId": "usr_adv_32",
+    "fullName": "Adv. K. Krishnagiri Govindan",
+    "email": "advocate.advkkrishnagirigovindan32@example.com",
+    "phone": "+91 9443000032",
+    "barCouncilNumber": "TN/DEMO/2021/1031",
+    "barCouncilNumberMasked": "TN/****/1031",
+    "state": "Tamil Nadu",
+    "district": "Krishnagiri",
+    "city": "Hosur",
+    "locality": "Hosur",
+    "practiceAreas": [
+      "Corporate",
+      "Industrial Land",
+      "Interstate Commercial"
+    ],
+    "yearsOfExperience": 16,
+    "languages": [
+      "Tamil",
+      "English",
+      "Kannada"
+    ],
+    "courts": [
+      "Sub-Court Hosur",
+      "District Court Krishnagiri"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call"
+    ],
+    "feeRange": "₹1,100 / Session",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "bio": "Trilingual counsel stationed in Hosur industrial hub handling Tamil Nadu - Karnataka cross-border contract enforcement and industrial lease agreements.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_33",
+    "userId": "usr_adv_33",
+    "fullName": "Adv. Dhanalakshmi Muthu",
+    "email": "advocate.advdhanalakshmimuthu33@example.com",
+    "phone": "+91 9443000033",
+    "barCouncilNumber": "TN/DEMO/2022/1032",
+    "barCouncilNumberMasked": "TN/****/1032",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "city": "Madurai",
+    "locality": "Madurai",
+    "practiceAreas": [
+      "Cyber Crime",
+      "Consumer",
+      "Banking"
+    ],
+    "yearsOfExperience": 10,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "Madurai Bench of Madras High Court",
+      "District Court Madurai"
+    ],
+    "consultationModes": [
+      "Video Call",
+      "Phone",
+      "In-Person"
+    ],
+    "feeRange": "₹700 / Session",
+    "availability": true,
+    "availabilityStatus": "Available This Week",
+    "rating": 4.7,
+    "reviewCount": 27,
+    "bio": "Specializing in online financial fraud complaints, UPI transaction recovery disputes, and consumer protection litigation across Southern Tamil Nadu.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  },
+  {
+    "_id": "adv_34",
+    "userId": "usr_adv_34",
+    "fullName": "Adv. S. Arunkumar",
+    "email": "advocate.advsarunkumar34@example.com",
+    "phone": "+91 9443000034",
+    "barCouncilNumber": "TN/DEMO/2023/1033",
+    "barCouncilNumberMasked": "TN/****/1033",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "city": "Chennai",
+    "locality": "Chennai",
+    "practiceAreas": [
+      "Property",
+      "RERA Law",
+      "Consumer"
+    ],
+    "yearsOfExperience": 14,
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "courts": [
+      "TNRERA Tribunal Chennai",
+      "Madras High Court"
+    ],
+    "consultationModes": [
+      "In-Person",
+      "Video Call"
+    ],
+    "feeRange": "₹1,200 / Session",
+    "availability": true,
+    "availabilityStatus": "Available Today",
+    "rating": 4.8,
+    "reviewCount": 46,
+    "bio": "Extensive track record before Tamil Nadu Real Estate Regulatory Authority (TNRERA) representing apartment buyers in delayed handover claims and defect liability.",
+    "verificationStatus": "VERIFIED",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:00:40.599Z",
+    "updatedAt": "2026-10-27T11:00:40.599Z"
+  }
+]

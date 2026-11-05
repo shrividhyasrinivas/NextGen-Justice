@@ -1,0 +1,116 @@
+[
+  {
+    "_id": "doc_01",
+    "ownerId": "usr_citizen_01",
+    "caseId": "case_01",
+    "documentName": "sample_legal_notice.txt",
+    "fileName": "sample_legal_notice.txt",
+    "mimeType": "text/plain",
+    "size": 2765,
+    "storagePath": "/app/applet/test-fixtures/sample_legal_notice.txt",
+    "status": "indexed",
+    "extractedText": "LEGAL NOTICE UNDER SECTION 106 OF THE TRANSFER OF PROPERTY ACT, 1882\n\nREGISTERED POST WITH ACKNOWLEDGEMENT DUE\n\nDate: 15th January 2026\nPlace: Madurai, Tamil Nadu\n\nTO:\nM/s Saravanan Trading Corporation\nRepresented by its Managing Partner, Mr. S. Saravanan\nShop No. 14, Commercial Complex, West Masi Street,\nMadurai - 625001, Tamil Nadu.\n\nFROM:\nMr. S. Arumugam Chettiar\nSon of Late Shanmugam Chettiar\nResiding at No. 42, Vakkil New Street,\nSimmakkal, Madurai - 625001, Tamil Nadu.\nThrough Counsel: Adv. K. Ramanathan, B.A., B.L.\nHigh Court of Judicature at Madras, Madurai Bench.\n\nSUBJECT: Notice of termination of monthly tenancy and demand for vacant possession of commercial shop premises.\n\nSir,\n\nUnder instructions from my client Mr. S. Arumugam Chettiar, I do hereby serve upon you this Legal Notice as follows:\n\n1. My client is the absolute owner and landlord of the commercial shop premises situated at Shop No. 14, Ground Floor, Commercial Complex, West Masi Street, Madurai - 625001 (hereinafter referred to as the \"Schedule Premises\").\n\n2. You entered into a registered lease agreement dated 10th February 2021 with my client for a lease period of three years at a monthly rent of Rs. 28,000/- (Rupees Twenty-Eight Thousand only), payable on or before the 5th of every English calendar month.\n\n3. The said registered lease period expired on 9th February 2024. Thereafter, you continued in occupation as a tenant from month to month with my client's consent.\n\n4. You have committed default in payment of monthly rents from August 2025 to December 2025, accumulating rental arrears of Rs. 1,40,000/- (Rupees One Lakh Forty Thousand only).\n\n5. My client requires the Schedule Premises bona fide for his own personal commercial use and renovation. My client no longer wishes to continue your tenancy.\n\n6. TAKE NOTICE that your monthly tenancy in respect of the Schedule Premises stands TERMINATED upon the expiry of fifteen (15) clear days from the date of receipt of this notice, in terms of Section 106 of the Transfer of Property Act, 1882.\n\n7. You are hereby called upon to:\n   (a) Hand over peaceful and vacant possession of the Schedule Premises to my client on or before 5th February 2026; and\n   (b) Pay the outstanding rental arrears of Rs. 1,40,000/- together with interest at 12% per annum within fifteen days of receipt of this notice.\n\n8. In the event of your failure to comply with the above demands within the stipulated period, my client will be constrained to initiate appropriate eviction proceedings before the competent Rent Tribunal / Civil Court at Madurai, holding you liable for all mesne profits and litigation costs.\n\nYours faithfully,\n\n(Adv. K. Ramanathan)\nCounsel for Landlord\nMadurai Bench of Madras High Court\nMadurai, Tamil Nadu\n",
+    "pageCount": 1,
+    "chunkCount": 3,
+    "extractedFacts": {
+      "documentType": "Legal Notice under Section 106 Transfer of Property Act",
+      "parties": [
+        {
+          "name": "S. Arumugam Chettiar",
+          "role": "Landlord / Sender"
+        },
+        {
+          "name": "Saravanan Trading Corporation",
+          "role": "Tenant / Recipient"
+        }
+      ],
+      "dates": [
+        {
+          "label": "Notice Date",
+          "date": "2026-01-15"
+        },
+        {
+          "label": "Eviction Deadline",
+          "date": "2026-02-05"
+        }
+      ],
+      "courtOrAuthority": "Madurai Bench of Madras High Court / Civil Court Madurai",
+      "subjectMatter": "Termination of monthly commercial tenancy and demand for vacant possession plus rental arrears of Rs. 1,40,000/-",
+      "claimsOrDemands": [
+        "Hand over peaceful and vacant possession of Shop No. 14 on or before 5th February 2026",
+        "Pay outstanding rental arrears of Rs. 1,40,000/- with 12% annual interest"
+      ],
+      "referencedSections": [
+        "Section 106, Transfer of Property Act, 1882"
+      ],
+      "potentialMissingInfo": [
+        "Postal acknowledgement card receipt date to be confirmed"
+      ]
+    },
+    "factsReviewed": true,
+    "createdAt": "2026-10-27T11:02:01.864Z",
+    "updatedAt": "2026-11-04T15:10:07.671Z"
+  },
+  {
+    "_id": "doc_1793805217710",
+    "ownerId": "usr_citizen_01",
+    "caseId": "case_01",
+    "documentName": "sample_legal_notice.txt",
+    "fileName": "1793805217704_sample_legal_notice.txt",
+    "mimeType": "text/plain",
+    "size": 2765,
+    "storagePath": "/app/applet/uploads/1793805217704_sample_legal_notice.txt",
+    "status": "indexed",
+    "createdAt": "2026-11-04T15:13:37.710Z",
+    "updatedAt": "2026-11-04T15:13:37.713Z",
+    "extractedText": "LEGAL NOTICE UNDER SECTION 106 OF THE TRANSFER OF PROPERTY ACT, 1882\n\nREGISTERED POST WITH ACKNOWLEDGEMENT DUE\n\nDate: 15th January 2026\nPlace: Madurai, Tamil Nadu\n\nTO:\nM/s Saravanan Trading Corporation\nRepresented by its Managing Partner, Mr. S. Saravanan\nShop No. 14, Commercial Complex, West Masi Street,\nMadurai - 625001, Tamil Nadu.\n\nFROM:\nMr. S. Arumugam Chettiar\nSon of Late Shanmugam Chettiar\nResiding at No. 42, Vakkil New Street,\nSimmakkal, Madurai - 625001, Tamil Nadu.\nThrough Counsel: Adv. K. Ramanathan, B.A., B.L.\nHigh Court of Judicature at Madras, Madurai Bench.\n\nSUBJECT: Notice of termination of monthly tenancy and demand for vacant possession of commercial shop premises.\n\nSir,\n\nUnder instructions from my client Mr. S. Arumugam Chettiar, I do hereby serve upon you this Legal Notice as follows:\n\n1. My client is the absolute owner and landlord of the commercial shop premises situated at Shop No. 14, Ground Floor, Commercial Complex, West Masi Street, Madurai - 625001 (hereinafter referred to as the \"Schedule Premises\").\n\n2. You entered into a registered lease agreement dated 10th February 2021 with my client for a lease period of three years at a monthly rent of Rs. 28,000/- (Rupees Twenty-Eight Thousand only), payable on or before the 5th of every English calendar month.\n\n3. The said registered lease period expired on 9th February 2024. Thereafter, you continued in occupation as a tenant from month to month with my client's consent.\n\n4. You have committed default in payment of monthly rents from August 2025 to December 2025, accumulating rental arrears of Rs. 1,40,000/- (Rupees One Lakh Forty Thousand only).\n\n5. My client requires the Schedule Premises bona fide for his own personal commercial use and renovation. My client no longer wishes to continue your tenancy.\n\n6. TAKE NOTICE that your monthly tenancy in respect of the Schedule Premises stands TERMINATED upon the expiry of fifteen (15) clear days from the date of receipt of this notice, in terms of Section 106 of the Transfer of Property Act, 1882.\n\n7. You are hereby called upon to:\n   (a) Hand over peaceful and vacant possession of the Schedule Premises to my client on or before 5th February 2026; and\n   (b) Pay the outstanding rental arrears of Rs. 1,40,000/- together with interest at 12% per annum within fifteen days of receipt of this notice.\n\n8. In the event of your failure to comply with the above demands within the stipulated period, my client will be constrained to initiate appropriate eviction proceedings before the competent Rent Tribunal / Civil Court at Madurai, holding you liable for all mesne profits and litigation costs.\n\nYours faithfully,\n\n(Adv. K. Ramanathan)\nCounsel for Landlord\nMadurai Bench of Madras High Court\nMadurai, Tamil Nadu\n",
+    "pageCount": 1,
+    "extractedFacts": {
+      "documentType": "Statutory Notice under Section 106 Transfer of Property Act",
+      "parties": [
+        {
+          "name": "Saravanan Trading Corporation",
+          "role": "Respondent / Recipient"
+        },
+        {
+          "name": "Mr. S. Arumugam Chettiar",
+          "role": "Sender / Complainant"
+        }
+      ],
+      "dates": [
+        {
+          "label": "Document / Notice Date",
+          "date": "15th January 2026"
+        },
+        {
+          "label": "Effective / Deadline Date",
+          "date": "10th February 2021"
+        },
+        {
+          "label": "Relevant Milestone 2",
+          "date": "9th February 2024"
+        },
+        {
+          "label": "Relevant Milestone 3",
+          "date": "5th February 2026"
+        }
+      ],
+      "courtOrAuthority": "Madurai Bench of the Madras High Court",
+      "subjectMatter": "Notice of termination of monthly tenancy and demand for vacant possession of commercial shop premises.",
+      "claimsOrDemands": [
+        "Monetary claim / arrears specified: Rs. 28,000/-",
+        "Monetary claim / arrears specified: Rs. 1,40,000/-",
+        "Demand for handover of peaceful and vacant possession",
+        "Demand for interest on defaulted amount (typically 12% to 18% p.a.)"
+      ],
+      "referencedSections": [
+        "SECTION 106 OF THE TRANSFER OF PROPERTY ACT",
+        "Section 106 of the Transfer of Property Act"
+      ],
+      "potentialMissingInfo": [
+        "Postal acknowledgement card / delivery proof receipt is not attached in the record."
+      ]
+    },
+    "chunkCount": 7
+  }
+]

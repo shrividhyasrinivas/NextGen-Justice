@@ -1,0 +1,29 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+uploads/*
+!uploads/.gitkeep
+*.log
+.DS_Store
+
+# Dependencies and build output
+node_modules/
+dist/
+build/
+.vite/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+npm-debug.log*
+.DS_Store
+
+# Local uploads and runtime data
+uploads/*
+!uploads/.gitkeep

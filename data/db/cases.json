@@ -1,0 +1,99 @@
+[
+  {
+    "_id": "case_01",
+    "caseId": "NJ-2026-MD-001042",
+    "citizenId": "usr_citizen_01",
+    "advocateId": "adv_01",
+    "title": "Commercial Tenancy Termination & Recovery of Rent Arrears",
+    "category": "Property",
+    "description": "Tenancy dispute concerning commercial shop premises at West Masi Street, Madurai. Tenant defaulted on rent for 5 months and refused to vacate following notice under Sec 106 Transfer of Property Act.",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "city": "Madurai",
+    "courtOrAuthority": "Madurai Bench of Madras High Court / Civil Court Madurai",
+    "parties": [
+      {
+        "name": "S. Arumugam Chettiar",
+        "role": "Landlord / Sender"
+      },
+      {
+        "name": "Saravanan Trading Corporation",
+        "role": "Tenant / Recipient"
+      }
+    ],
+    "relevantDates": [
+      {
+        "label": "Notice Date",
+        "date": "2026-01-15"
+      },
+      {
+        "label": "Eviction Deadline",
+        "date": "2026-02-05"
+      }
+    ],
+    "status": "PROCEEDING",
+    "urgency": "HIGH",
+    "documents": [
+      "doc_01",
+      "doc_1793805217710"
+    ],
+    "referencedSections": [
+      "Section 106, Transfer of Property Act, 1882"
+    ],
+    "extractedFactsSummary": "Legal Notice under Section 106 Transfer of Property Act: Termination of monthly commercial tenancy and demand for vacant possession plus rental arrears of Rs. 1,40,000/-. Demands: Hand over peaceful and vacant possession of Shop No. 14 on or before 5th February 2026; Pay outstanding rental arrears of Rs. 1,40,000/- with 12% annual interest",
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:02:01.864Z",
+    "updatedAt": "2026-11-04T15:13:37.714Z",
+    "potentialMissingInfo": [
+      "Postal acknowledgement card receipt date to be confirmed"
+    ]
+  },
+  {
+    "_id": "case_02",
+    "caseId": "NJ-2026-VR-002188",
+    "citizenId": "usr_citizen_01",
+    "title": "Cheque Dishonour Complaint under Section 138 NI Act",
+    "category": "Civil",
+    "description": "Business loan repayment cheque issued by respondent was dishonoured by bank with remark Funds Insufficient. Statutory demand notice issued within 30 days.",
+    "state": "Tamil Nadu",
+    "district": "Virudhunagar",
+    "city": "Rajapalayam",
+    "courtOrAuthority": "Judicial Magistrate Court, Rajapalayam",
+    "parties": [
+      {
+        "name": "S. Meenakshi Sundaram",
+        "role": "Complainant"
+      },
+      {
+        "name": "K. Rengarajan",
+        "role": "Accused"
+      }
+    ],
+    "status": "SUBMITTED",
+    "urgency": "NORMAL",
+    "documents": [],
+    "referencedSections": [
+      "Section 138 Negotiable Instruments Act 1881",
+      "Section 142 NI Act"
+    ],
+    "isDemo": true,
+    "createdAt": "2026-10-27T11:02:01.864Z",
+    "updatedAt": "2026-10-27T11:02:01.864Z"
+  },
+  {
+    "_id": "case_1793805096087",
+    "caseId": "NJ-2026-MA-000003",
+    "citizenId": "usr_1793805095892",
+    "title": "Agricultural Boundary Dispute - Vadipatti Taluk",
+    "category": "Civil",
+    "description": "Dispute regarding survey no 142/3 patta boundaries in Vadipatti.",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "city": "Madurai",
+    "status": "SUBMITTED",
+    "urgency": "NORMAL",
+    "documents": [],
+    "createdAt": "2026-11-04T15:11:36.087Z",
+    "updatedAt": "2026-11-04T15:11:36.087Z"
+  }
+]

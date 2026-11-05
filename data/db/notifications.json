@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "notif_01",
+    "userId": "usr_citizen_01",
+    "type": "CONSULTATION_UPDATE",
+    "title": "Consultation Request Accepted",
+    "message": "Adv. S. Muthukrishnan accepted your consultation request for Case NJ-2026-MD-001042.",
+    "read": false,
+    "link": "/cases/case_01",
+    "createdAt": "2026-11-04T15:43:20.550Z"
+  },
+  {
+    "_id": "notif_1793805098005",
+    "userId": "usr_adv_01",
+    "type": "CONSULTATION_REQUEST",
+    "title": "New Consultation Request Received",
+    "message": "A citizen has requested a consultation regarding \"Agricultural Boundary Dispute - Vadipatti Taluk\".",
+    "read": false,
+    "link": "/requests",
+    "createdAt": "2026-11-04T15:11:38.005Z"
+  }
+]

@@ -1,0 +1,174 @@
+{
+  "entities": {
+    "User": {
+      "title": "User",
+      "description": "User profile and authentication details for citizens, advocates, and administrators",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "role": { "type": "string", "enum": ["citizen", "advocate", "admin"] },
+        "state": { "type": "string" },
+        "district": { "type": "string" },
+        "city": { "type": "string" },
+        "phone": { "type": "string" },
+        "barNumber": { "type": "string" },
+        "createdAt": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["id", "name", "email", "role"]
+    },
+    "Advocate": {
+      "title": "Advocate",
+      "description": "Legal professional profile available for public and matched directory search",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "email": { "type": "string" },
+        "phone": { "type": "string" },
+        "barNumber": { "type": "string" },
+        "state": { "type": "string" },
+        "district": { "type": "string" },
+        "city": { "type": "string" },
+        "courts": { "type": "string" },
+        "experienceYears": { "type": "number" },
+        "consultationFee": { "type": "number" },
+        "rating": { "type": "number" },
+        "reviewCount": { "type": "number" },
+        "isVerified": { "type": "boolean" },
+        "isDemo": { "type": "boolean" },
+        "createdAt": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["id", "name", "barNumber", "state", "district", "city"]
+    },
+    "Case": {
+      "title": "Case",
+      "description": "Legal matter tracked by a citizen with chronology, facts, and documents",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "caseId": { "type": "string" },
+        "citizenId": { "type": "string" },
+        "title": { "type": "string" },
+        "category": { "type": "string" },
+        "description": { "type": "string" },
+        "state": { "type": "string" },
+        "district": { "type": "string" },
+        "city": { "type": "string" },
+        "status": { "type": "string", "enum": ["DRAFT", "SUBMITTED", "MATCHED", "PROCEEDING", "RESOLVED"] },
+        "urgency": { "type": "string", "enum": ["LOW", "NORMAL", "HIGH", "CRITICAL"] },
+        "createdAt": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["id", "citizenId", "title", "category", "status"]
+    },
+    "Document": {
+      "title": "Document",
+      "description": "Uploaded legal evidence or petition with OCR/extracted facts",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "ownerId": { "type": "string" },
+        "caseId": { "type": "string" },
+        "documentName": { "type": "string" },
+        "fileName": { "type": "string" },
+        "mimeType": { "type": "string" },
+        "size": { "type": "number" },
+        "status": { "type": "string", "enum": ["uploaded", "indexing", "indexed", "failed"] },
+        "extractedText": { "type": "string" },
+        "pageCount": { "type": "number" },
+        "chunkCount": { "type": "number" },
+        "factsReviewed": { "type": "boolean" },
+        "createdAt": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["id", "ownerId", "caseId", "documentName", "status"]
+    },
+    "Chunk": {
+      "title": "Chunk",
+      "description": "Indexed text passage for grounded semantic and keyword retrieval",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "ownerId": { "type": "string" },
+        "caseId": { "type": "string" },
+        "documentId": { "type": "string" },
+        "title": { "type": "string" },
+        "pageNumber": { "type": "number" },
+        "chunkIndex": { "type": "number" },
+        "text": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "ownerId", "caseId", "documentId", "text"]
+    },
+    "Consultation": {
+      "title": "Consultation",
+      "description": "Appointment and advice request between citizen and advocate",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "citizenId": { "type": "string" },
+        "advocateId": { "type": "string" },
+        "caseId": { "type": "string" },
+        "caseTitle": { "type": "string" },
+        "message": { "type": "string" },
+        "mode": { "type": "string", "enum": ["IN_PERSON", "ONLINE_VIDEO", "PHONE"] },
+        "preferredDate": { "type": "string" },
+        "status": { "type": "string", "enum": ["PENDING", "ACCEPTED", "DECLINED", "COMPLETED"] },
+        "responseNote": { "type": "string" },
+        "createdAt": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["id", "citizenId", "advocateId", "status"]
+    },
+    "Notification": {
+      "title": "Notification",
+      "description": "System alerts and updates for users",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "type": { "type": "string" },
+        "title": { "type": "string" },
+        "message": { "type": "string" },
+        "read": { "type": "boolean" },
+        "link": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "userId", "type", "title", "message"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "Private user profile and credentials"
+    },
+    "/advocates/{advocateId}": {
+      "schema": "Advocate",
+      "description": "Public advocate directory profiles"
+    },
+    "/cases/{caseId}": {
+      "schema": "Case",
+      "description": "Citizen legal cases"
+    },
+    "/documents/{documentId}": {
+      "schema": "Document",
+      "description": "Case documents and OCR metadata"
+    },
+    "/chunks/{chunkId}": {
+      "schema": "Chunk",
+      "description": "Grounded AI search retrieval chunks"
+    },
+    "/consultations/{consultationId}": {
+      "schema": "Consultation",
+      "description": "Consultation booking requests"
+    },
+    "/notifications/{notificationId}": {
+      "schema": "Notification",
+      "description": "User notifications"
+    }
+  }
+}

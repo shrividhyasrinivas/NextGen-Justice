@@ -1,0 +1,6 @@
+{
+  "name": "NextGen Justice V8",
+  "description": "Enterprise-grade legal aid, case intelligence, document AI analysis, advocate matching, and grounded legal assistant platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

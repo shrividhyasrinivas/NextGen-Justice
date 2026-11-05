@@ -1,0 +1,11 @@
+node_modules
+dist
+uploads/*
+!uploads/.gitkeep
+.git
+.github
+*.log
+firebase-debug.log
+.env
+.env.local
+.DS_Store

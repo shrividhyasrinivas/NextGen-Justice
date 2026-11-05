@@ -1,0 +1,132 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Default-deny all access
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isValidId(id) {
+      return id is string && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function isAdmin() {
+      return isSignedIn() && (
+        (request.auth.token.email == "shrividhyasrinivas@gmail.com" && request.auth.token.email_verified == true) ||
+        exists(/databases/$(database)/documents/admins/$(request.auth.uid))
+      );
+    }
+
+    // Advocates Directory: public read for search, write by advocate owner or admin
+    match /advocates/{advocateId} {
+      allow read: if true;
+      allow create: if isSignedIn() && isValidId(advocateId) && (request.resource.data.userId == request.auth.uid || isAdmin());
+      allow update: if isSignedIn() && isValidId(advocateId) && (resource.data.userId == request.auth.uid || isAdmin());
+      allow delete: if isAdmin();
+    }
+
+    // Users: Private profile access
+    match /users/{userId} {
+      allow read: if isSignedIn() && isValidId(userId) && (request.auth.uid == userId || isAdmin());
+      allow create: if isSignedIn() && isValidId(userId) && (request.auth.uid == userId || isAdmin());
+      allow update: if isSignedIn() && isValidId(userId) && (request.auth.uid == userId || isAdmin());
+      allow delete: if isAdmin();
+    }
+
+    // Cases: Citizen owned matters
+    match /cases/{caseId} {
+      allow read: if isSignedIn() && isValidId(caseId) && (
+        resource.data.citizenId == request.auth.uid ||
+        isAdmin()
+      );
+      allow create: if isSignedIn() && isValidId(caseId) && (
+        request.resource.data.citizenId == request.auth.uid ||
+        isAdmin()
+      );
+      allow update: if isSignedIn() && isValidId(caseId) && (
+        resource.data.citizenId == request.auth.uid ||
+        isAdmin()
+      );
+      allow delete: if isSignedIn() && isValidId(caseId) && (
+        resource.data.citizenId == request.auth.uid ||
+        isAdmin()
+      );
+    }
+
+    // Documents: Private legal files
+    match /documents/{documentId} {
+      allow read: if isSignedIn() && isValidId(documentId) && (
+        resource.data.ownerId == request.auth.uid ||
+        isAdmin()
+      );
+      allow create: if isSignedIn() && isValidId(documentId) && (
+        request.resource.data.ownerId == request.auth.uid ||
+        isAdmin()
+      );
+      allow update: if isSignedIn() && isValidId(documentId) && (
+        resource.data.ownerId == request.auth.uid ||
+        isAdmin()
+      );
+      allow delete: if isSignedIn() && isValidId(documentId) && (
+        resource.data.ownerId == request.auth.uid ||
+        isAdmin()
+      );
+    }
+
+    // Chunks: Text passages for RAG retrieval
+    match /chunks/{chunkId} {
+      allow read: if isSignedIn() && isValidId(chunkId) && (
+        resource.data.ownerId == request.auth.uid ||
+        isAdmin()
+      );
+      allow create: if isSignedIn() && isValidId(chunkId) && (
+        request.resource.data.ownerId == request.auth.uid ||
+        isAdmin()
+      );
+      allow update, delete: if isSignedIn() && isValidId(chunkId) && (
+        resource.data.ownerId == request.auth.uid ||
+        isAdmin()
+      );
+    }
+
+    // Consultations: Citizen to Advocate appointment requests
+    match /consultations/{consultationId} {
+      allow read: if isSignedIn() && isValidId(consultationId) && (
+        resource.data.citizenId == request.auth.uid ||
+        resource.data.advocateId == request.auth.uid ||
+        isAdmin()
+      );
+      allow create: if isSignedIn() && isValidId(consultationId) && (
+        request.resource.data.citizenId == request.auth.uid ||
+        isAdmin()
+      );
+      allow update: if isSignedIn() && isValidId(consultationId) && (
+        resource.data.citizenId == request.auth.uid ||
+        resource.data.advocateId == request.auth.uid ||
+        isAdmin()
+      );
+      allow delete: if isAdmin();
+    }
+
+    // Notifications: User alerts
+    match /notifications/{notificationId} {
+      allow read: if isSignedIn() && isValidId(notificationId) && (
+        resource.data.userId == request.auth.uid ||
+        isAdmin()
+      );
+      allow create: if isSignedIn();
+      allow update: if isSignedIn() && isValidId(notificationId) && (
+        resource.data.userId == request.auth.uid ||
+        isAdmin()
+      );
+      allow delete: if isSignedIn() && isValidId(notificationId) && (
+        resource.data.userId == request.auth.uid ||
+        isAdmin()
+      );
+    }
+  }
+}
